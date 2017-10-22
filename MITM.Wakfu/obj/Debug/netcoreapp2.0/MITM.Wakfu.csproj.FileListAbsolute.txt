@@ -1,0 +1,11 @@
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\bin\Debug\netcoreapp2.0\MITM.Wakfu.deps.json
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\bin\Debug\netcoreapp2.0\MITM.Wakfu.runtimeconfig.json
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\bin\Debug\netcoreapp2.0\MITM.Wakfu.runtimeconfig.dev.json
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\bin\Debug\netcoreapp2.0\MITM.Wakfu.dll
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\bin\Debug\netcoreapp2.0\MITM.Wakfu.pdb
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.dll
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.pdb
+C:\Users\jerem\OneDrive\Documents\Visual Studio 2017\Projects\MITM.Wakfu\MITM.Wakfu\obj\Debug\netcoreapp2.0\MITM.Wakfu.csprojResolveAssemblyReference.cache
